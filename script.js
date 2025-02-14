@@ -55,15 +55,15 @@
 })();
 */
 const messages = [
-    "Ești sigură?",
-    "100% sigură?",
-    "Pe bune homic?",
-    "Te rog consideră și varianta da",
-    "Dacă continui să spui nu voi fi foarte trist",
-    "ughm...FOARTE TRIST!!",
-"Glumesc doar, spune da te rog hihi! ❤️",
-    "TE ROG!!!!",
-    "Ultima șansă înainte să nu mai poți spune nu!"
+    "Are you sure?",
+    "100% sure?",
+    "press the other one monkey",
+    "what is this dumbassery",
+    "stop it",
+    "this is not funny",
+"por favor❤️",
+    "I'm taking back the cookies",
+    "Last chance before you can't say no anymore!"
    
 ];
 
